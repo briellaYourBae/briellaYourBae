@@ -33,7 +33,7 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<h1>- maintenance -</h1>
+<h1 align="center">- maintenance -</h1>
 
 <br/><br/>
 <br/>
