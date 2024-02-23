@@ -15,8 +15,8 @@
   <a href="Briellayb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://github.com/briellaYourBae" target="_blank">
-     <img src="faqihfaqih.my.id" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="faqihfaqih.my.id" target="_blank">
+     <img src="https://img.shields.io/badge/BrieLLa.YB-333333?style=for-thebadge&logo=Github&logoColor=red" target="_blank" />
   </a>
 </div>
 
