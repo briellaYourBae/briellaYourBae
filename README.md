@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
- 🔭 Saat ini saya sedang belajar **database***
+ 🔭I’m currently learning **database***
 ⚡Fun fact? I can transform into **Ultraman**
  </div>
  
