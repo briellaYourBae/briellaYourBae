@@ -9,12 +9,11 @@
 ⚡Fun fact? I can transform into **Ultraman**
  </div>
 
-
+triirarqii11
 
  <br/><hr>
  <h2 align="center">Connect with me!</h2>
 <div align="center"> 
- <a href="https://twitter.com/triirarqii11" target="blank"><img src="https://img.shields.io/twitter/follow/triirarqii11?logo=twitter&style=for-the-badge" alt="triirarqii11" /></a>
 <a href="https://codepen.io/briella-yb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="briella-yb" height="30" width="40" /></a>
 <a href="https://twitter.com/triirarqii11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="triirarqii11" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23496904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23496904" height="30" width="40" /></a>
