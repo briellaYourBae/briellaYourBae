@@ -9,17 +9,22 @@
 ⚡Fun fact? I can transform into **Ultraman**
  </div>
 
+
+
  <br/><hr>
  <h2 align="center">Connect with me!</h2>
 <div align="center"> 
   <a href="mailto:Briellayb@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=purple" />
   </a>
   <a href="https://faqihfaqih.my.id/" target="_blank">
-     <img src="https://img.shields.io/badge/MyWorld-333333?style=for-the-badge&logo=Github&logoColor=red" target="_blank" />
+     <img src="https://img.shields.io/badge/MyWorld-333333?style=for-the-badge&logo=Github&logoColor=purple" target="_blank" />
   </a>
  <a href="https://codepen.io/briella-yb" target="_blank">
-     <img src="https://img.shields.io/badge/CodePan-333333?style=for-the-badge&logo=codepen&logoColor=red" target="_blank" />
+     <img src="https://img.shields.io/badge/CodePan-333333?style=for-the-badge&logo=codepen&logoColor=purple" target="_blank" />
+  </a>
+  <a href="https://stackoverflow.com/users/23496904" target="_blank">
+     <img src="https://img.shields.io/badge/stuckoverflow?style=for-the-badge&logo=stuckoverflow&logoColor=purple" target="_blank" />
   </a>
 </div>
 
