@@ -42,6 +42,4 @@ hello, I am a website developer </h1>
 <h2 align="center"> 🎶 Other🎶 </h2>
 <a href="https://app.daily.dev/briella"><img align="center" src="https://api.daily.dev/devcards/0156cfc9046c4ccfaecb45fd5b0f48ba.png?r=9rt" width="400" alt="BrieLLa's Dev Card"/></a>
 
-𖤐
-<br><hr>
 <h1 align="center">𖤐</h1>
