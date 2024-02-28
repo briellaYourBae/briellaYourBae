@@ -23,9 +23,7 @@
  <a href="https://codepen.io/briella-yb" target="_blank">
      <img src="https://img.shields.io/badge/CodePan-333333?style=for-the-badge&logo=codepen&logoColor=purple" target="_blank" />
   </a>
-  <a href="https://stackoverflow.com/users/23496904" target="_blank">
-     <img src="https://img.shields.io/badge/?stylestack-overflow=for-the-badge&logo=stack-overflow&logoColor=purple" target="_blank" />
-  </a>
+  <a href="https://stackoverflow.com/users/23496904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23496904" height="30" width="40" /></a>
 </div>
 
 <br><hr>
