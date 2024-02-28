@@ -33,9 +33,9 @@
 <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<img alt"my stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=briellaYourBae"/> <br> 
-<img alt="briellayourbae" align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=briellayourbae&"/> <br> 
-<img alt"language" align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briellaYourBae&layout=compact"/><br>
+<img alt"my stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=briellaYourBae"/> <br> 
+<img alt="briellayourbae" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=briellayourbae&"/> <br> 
+<img alt"language" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briellaYourBae&layout=compact"/><br>
 
 <br/><br/>
 <br/>
