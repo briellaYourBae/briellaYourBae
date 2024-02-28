@@ -16,7 +16,10 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://faqihfaqih.my.id/" target="_blank">
-     <img src="https://img.shields.io/badge/BrieLLa.YB-333333?style=for-the-badge&logo=Github&logoColor=red" target="_blank" />
+     <img src="https://img.shields.io/badge/MyWorld-333333?style=for-the-badge&logo=Github&logoColor=red" target="_blank" />
+  </a>
+ <a href="https://codepen.io/briella-yb" target="_blank">
+     <img src="https://img.shields.io/badge/CodePan-333333?style=for-the-badge&logo=codepen&logoColor=red" target="_blank" />
   </a>
 </div>
 
