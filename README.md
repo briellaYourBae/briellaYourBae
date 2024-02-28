@@ -9,7 +9,7 @@
 ⚡Fun fact? I can transform into **Ultraman**
  </div>
 
- <br/> <hr>
+ <br/>
  <h2 align="center">Connect with me!</h2>
  <img alt="" align="left" width="48%" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA"/>
 <div align="center"> 
