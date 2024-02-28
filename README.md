@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Briellayourbae&label=Profile%20Views&color=11&pretty=true)](https://visitcount.itsvg.in)
 <br/>
 <h1 align="center">🜏<br> 
-hello, I develop websites from here (⁠づ⁠￣⁠ ⁠³⁠￣⁠)⁠づ</h1>
+hello, I am a website developer </h1>
 
 <br/>
 
@@ -41,3 +41,7 @@ hello, I develop websites from here (⁠づ⁠￣⁠ ⁠³⁠￣⁠)⁠づ</h1>
 <br>
 <h2 align="center"> 🎶 Other🎶 </h2>
 <a href="https://app.daily.dev/briella"><img align="center" src="https://api.daily.dev/devcards/0156cfc9046c4ccfaecb45fd5b0f48ba.png?r=9rt" width="400" alt="BrieLLa's Dev Card"/></a>
+
+𖤐
+<br><hr>
+<h1 align="center">𖤐</h1>
