@@ -20,8 +20,9 @@
   </a>
 </div>
 
+<br><hr>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/><hr>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,java" />
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mysql,github,git,vscode" /><br>
