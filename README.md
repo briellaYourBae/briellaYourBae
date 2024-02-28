@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Briellayourbae&label=Profile%20Views&color=11&pretty=true)](https://visitcount.itsvg.in)
 <br/>
 <h1 align="center">🜏<br> 
-I'm a website developer from ID</h1>
+hello, I develop websites from here (⁠づ⁠￣⁠ ⁠³⁠￣⁠)⁠づ</h1>
 
 <br/>
 
