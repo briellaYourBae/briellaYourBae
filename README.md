@@ -24,7 +24,7 @@
      <img src="https://img.shields.io/badge/CodePan-333333?style=for-the-badge&logo=codepen&logoColor=purple" target="_blank" />
   </a>
   <a href="https://stackoverflow.com/users/23496904" target="_blank">
-     <img src="https://img.shields.io/badge/stuckoverflow?style=for-the-badge&logo=stuckoverflow&logoColor=purple" target="_blank" />
+     <img src="https://img.shields.io/badge/stackoverflow?style=for-the-badge&logo=stackoverflow&logoColor=purple" target="_blank" />
   </a>
 </div>
 
