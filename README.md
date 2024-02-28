@@ -33,7 +33,7 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-[!(https://github-readme-stats.vercel.app/api?username=briellayourbae)](https://github.com/briellayourbae/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=briellayourbae)](https://github.com/briellayourbae/github-readme-stats)
 <h1 align="center">- maintenance -</h1>
 
 <br/><br/>
