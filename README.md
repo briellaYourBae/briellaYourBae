@@ -9,9 +9,9 @@
 ⚡Fun fact? I can transform into **Ultraman**
  </div>
 
- <br/>
+ <br/><hr>
  <h2 align="center">Connect with me!</h2>
- <img alt="" align="left" width="48%" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA"/>
+ <img alt="" align="left" width="45%" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA"/>
 <div align="center"> 
   <a href="mailto:Briellayb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -21,7 +21,6 @@
   </a>
 </div>
 
-<hr> 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
