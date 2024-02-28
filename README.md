@@ -11,7 +11,7 @@
 
  <br/> <hr>
  <h2 align="center">Connect with me!</h2>
- https://www.bing.com/images/search?view=detailV2&ccid=mUahTQdR&id=F0A55D8F75C79DA46D6D6DFDF83111941D0464CE&thid=OIP.mUahTQdRR4e4MJLLtJkjbwHaEU&mediaurl=https%3a%2f%2fci6.googleusercontent.com%2fproxy%2f6yONIoTPFRxmcUzOEqGb9rYBV6ot9p2T-PEXVCf8vS8efQLz1Q0yo4Sa6U0lrDqnZIcEDq445nqEDoRcH9cyZobRVuLb3o8oyyjpFXZX1jC-Y1aa-YGJ3kxAAgGaX-S0gw4Tt_8xte_q%3ds0-d-e1-ft%23https%3a%2f%2fwww.lambdatest.com%2fblog%2fwp-content%2fuploads%2f2021%2f02%2fezgif.com-gif-maker-1-1.gif&exph=466&expw=800&q=animated+coding+gif&simid=608033981001254076&FORM=IRPRST&ck=F3BA7A31E1FBE268EEB4D0375B2E8344&selectedIndex=13&itb=0&ajaxhist=0&ajaxserp=0
+ <img alt="" align="left" width="48%" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA"/>
 <div align="center"> 
   <a href="mailto:Briellayb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
