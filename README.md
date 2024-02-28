@@ -11,7 +11,7 @@
 
  <br/><hr>
  <h2 align="center">Connect with me!</h2>
- <img alt="" align="left" width="40%" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA"/>
+ <img alt="" align="left" width="42%" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA"/>
 <div align="center"> 
   <a href="mailto:Briellayb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -22,7 +22,7 @@
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<br/><hr>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,java" />
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mysql,github,git,vscode" /><br>
