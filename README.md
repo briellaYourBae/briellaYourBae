@@ -1,7 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=Briellayourbae&label=Profile%20Views&color=11&pretty=true)](https://visitcount.itsvg.in)
 <br/>
 <h3 align="center">I'm a website developer from ID</h3>
- <img alt="" align="left" width="42%" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA"/>
 
 <br/>
 
