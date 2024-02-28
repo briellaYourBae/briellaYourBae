@@ -27,8 +27,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,java" />
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mysql,github,git,vscode" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=briellayourbae&" alt="briellayourbae" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mysql,github,git,vscode" /><br>
 </div>
 
 <br/>
@@ -36,6 +35,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <img alt"my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=briellaYourBae"/>
 <img alt"language" align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briellaYourBae&layout=compact"/>
+<img alt="briellayourbae" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=briellayourbae&"/>
 
 <br/><br/>
 <br/>
