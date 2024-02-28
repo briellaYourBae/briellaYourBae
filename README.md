@@ -27,7 +27,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,java" />
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mysql,github,git,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mysql,github,git,vscode" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=briellayourbae&" alt="briellayourbae" /><br>
 </div>
 
 <br/>
