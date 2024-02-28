@@ -8,7 +8,7 @@
 ⚡Fun fact? I can transform into **Ultraman**
  </div>
 
- <br/> <hr/>
+ <br/> <hr>
  <h2 align="center">Connect with me!</h2>
 <div align="center"> 
   <a href="mailto:Briellayb@gmail.com">
@@ -19,7 +19,7 @@
   </a>
 </div>
 
- <hr/>
+ <hr>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -29,7 +29,7 @@
 </div>
 
 <br/>
-<hr/>
+<hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <img alt"my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=briellaYourBae"/>
