@@ -35,5 +35,5 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <img alt"my stats" align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=briellaYourBae"/> <br> 
 <img alt="briellayourbae" align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=briellayourbae&"/> <br> 
-<img alt"language" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briellaYourBae&layout=compact"/><br>
+<img alt"language" align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briellaYourBae&layout=compact"/><br>
 <a href="https://app.daily.dev/briella"><img align="right" src="https://api.daily.dev/devcards/0156cfc9046c4ccfaecb45fd5b0f48ba.png?r=9rt" width="400" alt="BrieLLa's Dev Card"/></a>
