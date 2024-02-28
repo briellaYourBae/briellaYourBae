@@ -24,7 +24,7 @@
 
 <br><hr>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,java" />
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mysql,github,git,vscode" /><br>
