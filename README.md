@@ -33,7 +33,8 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<a href="https://github-readme-stats.vercel.app/api?username=briellayourbae&show_icons=true)](https://github.com/briellayourbae/github-readme-stats"/>
+<img alt"my stats" width="46" src="https://github-readme-stats.vercel.app/api?username=briellaYourBae"/>
+<img alt"language" width="46" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briellaYourBae&layout=compact"/>
 <h1 align="center">- maintenance -</h1>
 
 <br/><br/>
