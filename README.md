@@ -29,6 +29,7 @@ hello, I am a website developer </h1>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,java" />
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mysql,github,git,vscode" /><br>
+ <img src="https://skillicons.dev/icons?i=linux,photoshop,mysql,github,git,vscode" /><br>
 </div>
 
 <br/>
