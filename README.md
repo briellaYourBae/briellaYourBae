@@ -1,13 +1,13 @@
 [![](https://visitcount.itsvg.in/api?id=Briellayourbae&label=Profile%20Views&color=11&pretty=true)](https://visitcount.itsvg.in)
 <br/>
 <h1 align="center">🜏<br> 
-hello, I am a website developer </h1>
+hello, I am a HUMAN </h1>
 
 <br/>
 
 <div align="center">
- 🔭I’m currently learning **database** <br>
-⚡Fun fact? I can transform into **Ultraman**
+ 🔭I’m currently learning 'database' <br>
+⚡Fun fact? I can transform into 'Ultraman'
  </div>
  
 
